@@ -18,7 +18,7 @@ public class VentanaPrincipal extends JFrame
     }
 
     private void initComponents() {
-        setTitle("Sistema Rent a Car");
+        setTitle("Rent a Car - System");
         setSize(400, 350);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
